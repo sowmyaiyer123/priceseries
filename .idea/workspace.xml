@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd3664f8-d947-4a52-95ed-835aa0b6062b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_192.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_11_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_11_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_4_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_10_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_2_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_2_5_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_20_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/priceseriesavg.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/PriceQuoteApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Price.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/PriceQuote.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/repo/PriceQuoteRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/calculation/engine/service/PriceQuoteService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/calculation/engine/PriceQuoteRepositoryTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControllerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceQuoteRepositoryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/PriceQuoteRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringRepeat.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/org/springframework/test/context/junit4/statements/SpringRepeat.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1521738891266" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1521738891266" expanded="false" signature="174:390" ph="..." />
+                <marker date="1521738891266" expanded="true" signature="678:765" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="838:952" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="998:1337" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockMvcRequestBuilders.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <marker date="1521738891266" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1521738891266" expanded="false" signature="168:474" ph="..." />
+                <marker date="1521738891266" expanded="true" signature="559:566" ph="{}" />
+                <marker date="1521738891266" expanded="true" signature="659:754" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="817:895" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="989:1085" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1149:1228" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1321:1416" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1479:1557" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1652:1749" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1814:1894" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="1990:2088" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="2154:2235" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="2332:2431" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="2498:2580" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="2674:2770" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="2834:2913" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3029:3116" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3206:3280" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3366:3440" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3549:3637" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3716:3787" ph="{...}" />
+                <marker date="1521738891266" expanded="true" signature="3863:4275" ph="{...}" />
+                <marker date="1521738891266" expanded="false" signature="3916:4026" ph="buildRequest(servletContext) → {" />
+                <marker date="1521738891266" expanded="false" signature="4253:4268" ph="}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceQuoteController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>explo</find>
+      <find>explore</find>
+      <find>profiles</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Maulik\Desktop\priceseries</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Price.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/web/PriceQuoteController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/repo/PriceQuoteRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/PriceQuote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/ExplorecaliApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/PriceQuoteApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/HttpRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/PriceQuoteRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/service/PriceQuoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/calculation/engine/ApiCallTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="252" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priceseriesavg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priceseries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="ApiCallTest.createClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.calculation.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceseriesavg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.calculation.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.calculation.engine.ApiCallTest" />
+      <option name="METHOD_NAME" value="createClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.calculation.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceseriesavg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.calculation.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.calculation.engine.ApiCallTest" />
+      <option name="METHOD_NAME" value="findById_TodoEntryFound_ShouldReturnFoundTodoEntry" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ControllerTest.controllerLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.calculation.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceseriesavg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.calculation.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.calculation.engine.ControllerTest" />
+      <option name="METHOD_NAME" value="controllerLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HttpRequestTest.greetingShouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.calculation.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceseriesavg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.calculation.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.calculation.engine.HttpRequestTest" />
+      <option name="METHOD_NAME" value="greetingShouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PriceQuoteRepositoryTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.calculation.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceseriesavg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.calculation.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.calculation.engine.PriceQuoteRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="PriceQuoteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.calculation.engine.PriceQuoteApplication" />
+      <module name="priceseriesavg" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.PriceQuoteApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HttpRequestTest.greetingShouldReturnDefaultMessage" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ControllerTest.controllerLoads" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PriceQuoteRepositoryTest.testFindByName" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ApiCallTest.createClient" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ApiCallTest.createClient" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PriceQuoteRepositoryTest.testFindByName" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ControllerTest.controllerLoads" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HttpRequestTest.greetingShouldReturnDefaultMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd3664f8-d947-4a52-95ed-835aa0b6062b" name="Default" comment="" />
+      <created>1521810331825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521810331825</updated>
+      <workItem from="1521810335776" duration="1069000" />
+      <workItem from="1521819727098" duration="127000" />
+      <workItem from="1521828525132" duration="12473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 53m 03s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 53m 30s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 56m 05s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 57m 18s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 57m 51s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 17h 58m 28s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 18h 00m 51s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 18h 02m 58s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 18h 03m 20s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiCallTest_findById_TodoEntryFound_ShouldReturnFoundTodoEntry - 2018.03.25 at 18h 03m 30s.xml">
+      <configuration name="ApiCallTest.findById_TodoEntryFound_ShouldReturnFoundTodoEntry" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4632272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/PriceQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.3.RELEASE/spring-data-commons-1.12.3.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1521738882573" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/PriceQuoteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#683#684#0" expanded="false" />
+            <element signature="e#721#722#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1033#1034#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/PriceQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/PriceQuoteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="91" lean-forward="false" selection-start-line="32" selection-start-column="91" selection-end-line="32" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#683#684#0" expanded="false" />
+            <element signature="e#721#722#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1033#1034#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Difficulty.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Region.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Tour.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/TourPackage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/TourRating.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/TourRatingPk.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/repo/TourPackageRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/web/TourRatingController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/web/RatingDto.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE.jar!/org/springframework/http/MediaType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <marker date="1521738889269" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521738889269" expanded="false" signature="148:830" ph="..." />
+            <marker date="1521738889269" expanded="false" signature="3726:3828" ph="compare(mediaType1, mediaType2) → {" />
+            <marker date="1521738889269" expanded="false" signature="5050:5061" ph="}" />
+            <marker date="1521738889269" expanded="false" signature="5134:5260" ph="compareParameters(mediaType1, mediaType2) → {" />
+            <marker date="1521738889269" expanded="false" signature="5570:5581" ph="}" />
+            <marker date="1521738889269" expanded="false" signature="5617:5628" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="5640:5646" ph=" }" />
+            <marker date="1521738889269" expanded="false" signature="5697:5708" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="5753:5759" ph=" }" />
+            <marker date="1521738889269" expanded="false" signature="5827:5838" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="5868:5874" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="5947:6045" ph="{...}" />
+            <marker date="1521738889269" expanded="false" signature="6101:6112" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="6134:6140" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="6212:6283" ph="{...}" />
+            <marker date="1521738889269" expanded="false" signature="6366:6377" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="6410:6416" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="6485:6805" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="6843:7003" ph="{...}" />
+            <marker date="1521738889269" expanded="false" signature="7049:7060" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="7089:7095" ph=" }" />
+            <marker date="1521738889269" expanded="false" signature="7149:7160" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="7197:7203" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="7264:7577" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="7621:7896" ph="{...}" />
+            <marker date="1521738889269" expanded="false" signature="7947:7958" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="7987:7993" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="8056:8519" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="8590:9131" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="9208:9745" ph="{...}" />
+            <marker date="1521738889269" expanded="false" signature="9814:9825" ph=" { " />
+            <marker date="1521738889269" expanded="false" signature="9867:9873" ph=" }" />
+            <marker date="1521738889269" expanded="true" signature="9944:10134" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="10206:10398" ph="{...}" />
+            <marker date="1521738889269" expanded="true" signature="10479:10737" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.3.RELEASE/spring-data-commons-1.12.3.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1521738882573" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/PriceQuoteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/PriceQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/domain/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="false" />
+            <element signature="e#183#184#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#263#264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/HttpRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/1.4.1.RELEASE/spring-boot-test-autoconfigure-1.4.1.RELEASE.jar!/org/springframework/boot/test/autoconfigure/orm/jpa/TestEntityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <marker date="1521738889174" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521738889174" expanded="false" signature="175:356" ph="..." />
+            <marker date="1521738889174" expanded="true" signature="525:677" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="728:800" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="867:947" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="984:1063" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="1109:1353" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="1398:1480" ph="{...}" />
+            <marker date="1521738889174" expanded="false" signature="1514:1525" ph=" { " />
+            <marker date="1521738889174" expanded="false" signature="1570:1576" ph=" }" />
+            <marker date="1521738889174" expanded="false" signature="1615:1626" ph=" { " />
+            <marker date="1521738889174" expanded="false" signature="1665:1671" ph=" }" />
+            <marker date="1521738889174" expanded="true" signature="1736:1813" ph="{...}" />
+            <marker date="1521738889174" expanded="false" signature="1838:1849" ph=" { " />
+            <marker date="1521738889174" expanded="false" signature="1881:1887" ph=" }" />
+            <marker date="1521738889174" expanded="true" signature="1924:2003" ph="{...}" />
+            <marker date="1521738889174" expanded="false" signature="2028:2039" ph=" { " />
+            <marker date="1521738889174" expanded="false" signature="2071:2077" ph=" }" />
+            <marker date="1521738889174" expanded="false" signature="2116:2127" ph=" { " />
+            <marker date="1521738889174" expanded="false" signature="2166:2172" ph=" }" />
+            <marker date="1521738889174" expanded="true" signature="2213:2309" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="2366:2488" ph="{...}" />
+            <marker date="1521738889174" expanded="true" signature="2540:2766" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/service/PriceQuoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#683#684#0" expanded="false" />
+            <element signature="e#726#727#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/repo/PriceQuoteRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1521891660107" expanded="true" signature="455:558" ph="SELECT avg(r... *" />
+            <marker date="1521891660107" expanded="true" signature="491:542" ph="SELECT * fro... price_quote" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/PriceQuoteRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/calculation/engine/controller/PriceQuoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <marker date="1521738891266" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521738891266" expanded="false" signature="168:474" ph="..." />
+            <marker date="1521738891266" expanded="true" signature="559:566" ph="{}" />
+            <marker date="1521738891266" expanded="true" signature="659:754" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="817:895" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="989:1085" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1149:1228" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1321:1416" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1479:1557" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1652:1749" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1814:1894" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="1990:2088" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="2154:2235" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="2332:2431" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="2498:2580" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="2674:2770" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="2834:2913" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3029:3116" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3206:3280" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3366:3440" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3549:3637" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3716:3787" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="3863:4275" ph="{...}" />
+            <marker date="1521738891266" expanded="false" signature="3916:4026" ph="buildRequest(servletContext) → {" />
+            <marker date="1521738891266" expanded="false" signature="4253:4268" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/calculation/engine/ApiCallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/org/springframework/test/context/junit4/statements/SpringRepeat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1521738891266" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521738891266" expanded="false" signature="174:390" ph="..." />
+            <marker date="1521738891266" expanded="true" signature="678:765" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="838:952" ph="{...}" />
+            <marker date="1521738891266" expanded="true" signature="998:1337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
