@@ -1,11 +1,12 @@
 package com.calculation.engine.controller;
 
-import com.calculation.engine.domain.Price;
-import com.calculation.engine.domain.PriceQuote;
-import com.calculation.engine.service.PriceQuoteService;
+import com.calculation.engine.service.DataStoreService;
+import com.google.common.base.Preconditions;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Collections;
 import java.util.Map;
@@ -16,21 +17,16 @@ import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 @RequestMapping(path = "/priceApp/")
 public class PriceQuoteController {
 
-    private PriceQuoteService service;
+    private DataStoreService dataStoreService;
 
     @Autowired
-    public PriceQuoteController(PriceQuoteService service) {
-        this.service = service;
-    }
-
-    @RequestMapping(value = "/submitPriceQuote", method = RequestMethod.POST, consumes = APPLICATION_JSON_VALUE, produces = APPLICATION_JSON_VALUE)
-    @ResponseStatus(HttpStatus.CREATED)
-    public void submitPriceQuote(@RequestBody Price price) {
-        service.save(new PriceQuote(price.getPrice()));
+    public PriceQuoteController(DataStoreService dataStoreService) {
+        this.dataStoreService = dataStoreService;
     }
 
     @RequestMapping(value = "/getAveragePriceQuote", method = RequestMethod.GET, produces = APPLICATION_JSON_VALUE)
     public Map getAveragePriceQuote(@RequestParam(value = "numberOfQuotes", required = true) int numberOfQuotes) {
-        return Collections.singletonMap("average", service.computeAverageOfLastN(numberOfQuotes));
+        Preconditions.checkArgument(numberOfQuotes >= 0, "Number of quotes should be greater than or equal to 0");
+        return Collections.singletonMap("average", dataStoreService.computeAverageOfLastN(numberOfQuotes));
     }
 }
